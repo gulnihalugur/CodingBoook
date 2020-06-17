@@ -5,5 +5,5 @@ Bu repository CoodingBook kursundaki öğrendikleirmizi uygulamak için oluştur
 Github'a giriş yaptık
 ve bir IDE ile Github bağlantısı nasıl kurulur onu öğrendik
 
-###İlk Ödev
+### İlk Ödev
 Hocanın derste gösterdiklerini kendimiz uygulama ödevi verildi
